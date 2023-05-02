@@ -6,8 +6,8 @@ string user;
 string pass;
 
 string userInfo[2][5] = {
-    {"Lapryo", "lapryo99", "User3", "User4", "User5"},
-    {"lapryorocks", "iheartpornhub", "c", "d", "e"}
+    {"User1", "User2", "User3", "User4", "User5"},
+    {"a", "b", "c", "d", "e"}
 };
 
 void searchUserInfo(string username, string password, string success, string errUser, string errPass) {
